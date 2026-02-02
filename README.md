@@ -136,6 +136,7 @@ The project includes interactive dashboards covering:
 
 -) Strengthened hands-on experience in SQL, Power BI, and financial analytics
 
-C:\Users\Roshan Jha\OneDrive\รูปภาพ
+<img width="1644" height="951" alt="Credit_Card_Report" src="https://github.com/user-attachments/assets/8d286711-19d9-4347-95da-9a356375b413" />
+
 
 
