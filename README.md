@@ -136,7 +136,6 @@ The project includes interactive dashboards covering:
 
 -) Strengthened hands-on experience in SQL, Power BI, and financial analytics
 
-C:\Users\Roshan Jha\Downloads\Credit_Card_Transaction_Report
-
+C:\Users\Roshan Jha\OneDrive\รูปภาพ
 
 
